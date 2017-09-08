@@ -1,0 +1,240 @@
+2017-09-08 10:52:01 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 10:52:01 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 10:52:01 - after method:PersonController.create(..)
+2017-09-08 10:52:01 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 10:52:01 - after method:PersonController.findAll()
+2017-09-08 10:52:01 - after method:PageController.index(..)
+2017-09-08 10:52:08 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 10:52:08 - after method:PersonController.findAll()
+2017-09-08 10:54:00 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 10:54:00 - after method:PersonController.findAll()
+2017-09-08 10:54:06 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findByName(java.lang.String),/api/people/name/b
+2017-09-08 10:54:06 - after method:PersonController.findByName(..)
+2017-09-08 11:49:17 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 11:49:17 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 11:49:17 - after method:PersonController.create(..)
+2017-09-08 11:49:17 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 11:49:17 - after method:PersonController.findAll()
+2017-09-08 11:49:17 - after method:PageController.index(..)
+2017-09-08 11:49:29 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 11:49:29 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 11:49:29 - after method:PersonController.create(..)
+2017-09-08 11:49:29 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 11:49:29 - after method:PersonController.findAll()
+2017-09-08 11:49:29 - after method:PageController.index(..)
+2017-09-08 11:49:51 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 11:49:51 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 11:49:51 - after method:PersonController.create(..)
+2017-09-08 11:49:51 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 11:49:51 - after method:PersonController.findAll()
+2017-09-08 11:49:51 - after method:PageController.index(..)
+2017-09-08 11:50:22 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 11:50:22 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 11:50:22 - after method:PersonController.create(..)
+2017-09-08 11:50:22 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 11:50:22 - after method:PersonController.findAll()
+2017-09-08 11:50:22 - after method:PageController.index(..)
+2017-09-08 11:50:33 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 11:50:33 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 11:50:33 - after method:PersonController.create(..)
+2017-09-08 11:50:33 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 11:50:33 - after method:PersonController.findAll()
+2017-09-08 11:50:33 - after method:PageController.index(..)
+2017-09-08 11:50:57 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 11:50:57 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 11:50:57 - after method:PersonController.create(..)
+2017-09-08 11:50:57 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 11:50:57 - after method:PersonController.findAll()
+2017-09-08 11:50:57 - after method:PageController.index(..)
+2017-09-08 11:51:46 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 11:51:46 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 11:51:46 - after method:PersonController.create(..)
+2017-09-08 11:51:46 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 11:51:46 - after method:PersonController.findAll()
+2017-09-08 11:51:46 - after method:PageController.index(..)
+2017-09-08 15:28:06 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 15:28:06 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 15:28:06 - after method:PersonController.create(..)
+2017-09-08 15:28:06 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 15:28:06 - after method:PersonController.findAll()
+2017-09-08 15:28:06 - after method:PageController.index(..)
+2017-09-08 15:28:23 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 15:28:23 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 15:28:23 - after method:PersonController.create(..)
+2017-09-08 15:28:23 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 15:28:23 - after method:PersonController.findAll()
+2017-09-08 15:28:23 - after method:PageController.index(..)
+2017-09-08 15:34:19.019 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 15:34:19.019 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 15:34:19.019 - after method:PersonController.create(..)
+2017-09-08 15:34:19.019 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 15:34:19.019 - after method:PersonController.findAll()
+2017-09-08 15:34:19.019 - after method:PageController.index(..)
+2017-09-08 15:35:55,556 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 15:35:55,742 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 15:35:55,754 - after method:PersonController.create(..)
+2017-09-08 15:35:55,782 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 15:35:55,939 - after method:PersonController.findAll()
+2017-09-08 15:35:55,949 - after method:PageController.index(..)
+2017-09-08 15:39:42,355 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 15:39:42,359 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 15:39:42,362 - after method:PersonController.create(..)
+2017-09-08 15:39:42,368 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 15:39:42,371 - after method:PersonController.findAll()
+2017-09-08 15:39:42,373 - after method:PageController.index(..)
+2017-09-08 15:47:27.193 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 15:47:27.498 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 15:47:27.514 - after method:PersonController.create(..)
+2017-09-08 15:47:27.545 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 15:47:27.788 - after method:PersonController.findAll()
+2017-09-08 15:47:27.808 - after method:PageController.index(..)
+2017-09-08 15:50:44.939 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 15:50:45.110 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 15:50:45.123 - after method:PersonController.create(..)
+2017-09-08 15:50:45.158 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 15:50:45.313 - after method:PersonController.findAll()
+2017-09-08 15:50:45.322 - after method:PageController.index(..)
+2017-09-08 15:50:56.202 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 15:50:56.206 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 15:50:56.209 - after method:PersonController.create(..)
+2017-09-08 15:50:56.215 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 15:50:56.218 - after method:PersonController.findAll()
+2017-09-08 15:50:56.223 - after method:PageController.index(..)
+2017-09-08 15:55:45.317 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 15:55:45.502 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 15:55:45.512 - after method:PersonController.create(..)
+2017-09-08 15:55:45.543 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 15:55:45.730 - after method:PersonController.findAll()
+2017-09-08 15:55:45.739 - after method:PageController.index(..)
+2017-09-08 15:55:51.048 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 15:55:51.050 - after method:PersonController.findAll()
+2017-09-08 15:55:57.247 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findByName(java.lang.String),/api/people/name/NewOne
+2017-09-08 15:55:57.280 - after method:PersonController.findByName(..)
+2017-09-08 15:56:09.828 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findByName(java.lang.String),/api/people/name/NewOne
+2017-09-08 15:56:09.830 - after method:PersonController.findByName(..)
+2017-09-08 16:05:50.413 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 16:05:50.575 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),/api/people
+2017-09-08 16:05:50.585 - after method:PersonController.create(..)
+2017-09-08 16:05:50.613 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 16:05:50.797 - after method:PersonController.findAll()
+2017-09-08 16:05:50.820 - after method:PageController.index(..)
+2017-09-08 16:05:55.189 - before method:public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse),/error
+2017-09-08 16:05:55.206 - after method:BasicErrorController.errorHtml(..)
+2017-09-08 16:39:34.953 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 16:39:35.019 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 16:39:35.219 - after method:PersonController.findAll()
+2017-09-08 16:39:35.308 - after method:PageController.index(..)
+2017-09-08 16:39:35.791 - before method:public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse),/error
+2017-09-08 16:39:35.807 - after method:BasicErrorController.errorHtml(..)
+2017-09-08 16:41:10.748 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 16:41:10.827 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 16:41:11.026 - after method:PersonController.findAll()
+2017-09-08 16:41:11.303 - before method:public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse),/error
+2017-09-08 16:41:11.328 - after method:BasicErrorController.errorHtml(..)
+2017-09-08 16:44:14.450 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 16:44:14.535 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 16:44:14.725 - after method:PersonController.findAll()
+2017-09-08 16:44:15.033 - before method:public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse),/error
+2017-09-08 16:44:15.051 - after method:BasicErrorController.errorHtml(..)
+2017-09-08 16:45:30.875 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 16:45:30.943 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 16:45:31.133 - after method:PersonController.findAll()
+2017-09-08 17:00:20.898 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 17:00:20.967 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 17:00:21.225 - after method:PersonController.findAll()
+2017-09-08 17:00:27.704 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 17:00:27.709 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 17:00:27.711 - after method:PersonController.findAll()
+2017-09-08 17:00:36.404 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 17:00:36.416 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 17:00:36.418 - after method:PersonController.findAll()
+2017-09-08 17:00:38.402 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 17:00:38.405 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 17:00:38.407 - after method:PersonController.findAll()
+2017-09-08 17:00:43.681 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 17:00:43.684 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 17:00:43.685 - after method:PersonController.findAll()
+2017-09-08 17:07:11.562 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 17:07:11.617 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 17:07:11.838 - after method:PersonController.findAll()
+2017-09-08 17:07:11.953 - after method:PageController.index(..)
+2017-09-08 17:09:53.870 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 17:09:53.885 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 17:09:53.888 - after method:PersonController.findAll()
+2017-09-08 17:09:53.891 - after method:PageController.index(..)
+2017-09-08 17:09:57.131 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 17:09:57.134 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 17:09:57.137 - after method:PersonController.findAll()
+2017-09-08 17:09:57.139 - after method:PageController.index(..)
+2017-09-08 17:15:17.005 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 17:15:17.069 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 17:15:17.233 - after method:PersonController.findAll()
+2017-09-08 17:15:17.350 - after method:PageController.index(..)
+2017-09-08 17:15:26.755 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 17:15:26.759 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 17:15:26.761 - after method:PersonController.findAll()
+2017-09-08 17:15:26.765 - after method:PageController.index(..)
+2017-09-08 17:20:02.489 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.update(java.lang.Long,com.example.appDemo.model.Person),
+2017-09-08 17:20:02.544 - after method:PersonController.update(..)
+2017-09-08 17:20:02.613 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),
+2017-09-08 17:20:02.816 - after method:PersonController.findAll()
+2017-09-08 17:20:02.910 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findByName(java.lang.String),
+2017-09-08 17:20:02.941 - after method:PersonController.findByName(..)
+2017-09-08 17:20:02.996 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),
+2017-09-08 17:20:02.999 - after method:PersonController.create(..)
+2017-09-08 17:20:08.486 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 17:20:08.506 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 17:20:08.528 - after method:PersonController.findAll()
+2017-09-08 17:20:08.536 - after method:PageController.index(..)
+2017-09-08 17:20:32.411 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 17:20:32.425 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 17:20:32.443 - after method:PersonController.findAll()
+2017-09-08 17:20:32.457 - after method:PageController.index(..)
+2017-09-08 17:20:35.682 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 17:20:35.688 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 17:20:35.691 - after method:PersonController.findAll()
+2017-09-08 17:20:35.710 - after method:PageController.index(..)
+2017-09-08 17:20:39.968 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.update(java.lang.Long,com.example.appDemo.model.Person),
+2017-09-08 17:20:40.024 - after method:PersonController.update(..)
+2017-09-08 17:20:40.108 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),
+2017-09-08 17:20:40.300 - after method:PersonController.findAll()
+2017-09-08 17:20:40.374 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findByName(java.lang.String),
+2017-09-08 17:20:40.411 - after method:PersonController.findByName(..)
+2017-09-08 17:20:40.464 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),
+2017-09-08 17:20:40.466 - after method:PersonController.create(..)
+2017-09-08 17:22:44.819 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.update(java.lang.Long,com.example.appDemo.model.Person),
+2017-09-08 17:22:44.887 - after method:PersonController.update(..)
+2017-09-08 17:22:44.971 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),
+2017-09-08 17:22:45.240 - after method:PersonController.findAll()
+2017-09-08 17:22:45.337 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findByName(java.lang.String),
+2017-09-08 17:22:45.450 - after method:PersonController.findByName(..)
+2017-09-08 17:22:45.508 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),
+2017-09-08 17:22:45.510 - after method:PersonController.create(..)
+2017-09-08 17:22:46.214 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 17:22:46.236 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 17:22:46.263 - after method:PersonController.findAll()
+2017-09-08 17:22:46.274 - after method:PageController.index(..)
+2017-09-08 17:23:39.288 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 17:23:39.340 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 17:23:39.356 - after method:PersonController.findAll()
+2017-09-08 17:23:39.364 - after method:PageController.index(..)
+2017-09-08 17:23:41.394 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.update(java.lang.Long,com.example.appDemo.model.Person),
+2017-09-08 17:23:41.440 - after method:PersonController.update(..)
+2017-09-08 17:23:41.504 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),
+2017-09-08 17:23:41.710 - after method:PersonController.findAll()
+2017-09-08 17:23:41.788 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findByName(java.lang.String),
+2017-09-08 17:23:41.822 - after method:PersonController.findByName(..)
+2017-09-08 17:23:41.865 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),
+2017-09-08 17:23:41.868 - after method:PersonController.create(..)
+2017-09-08 17:24:15.446 - before method:public java.lang.String com.example.appDemo.controller.page.PageController.index(org.springframework.ui.Model),/
+2017-09-08 17:24:15.468 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),/api/people
+2017-09-08 17:24:15.486 - after method:PersonController.findAll()
+2017-09-08 17:24:15.494 - after method:PageController.index(..)
+2017-09-08 17:24:20.862 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.update(java.lang.Long,com.example.appDemo.model.Person),
+2017-09-08 17:24:20.908 - after method:PersonController.update(..)
+2017-09-08 17:24:20.963 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findAll(),
+2017-09-08 17:24:21.155 - after method:PersonController.findAll()
+2017-09-08 17:24:21.233 - before method:public java.util.List com.example.appDemo.controller.api.PersonController.findByName(java.lang.String),
+2017-09-08 17:24:21.470 - after method:PersonController.findByName(..)
+2017-09-08 17:24:21.531 - before method:public com.example.appDemo.model.Person com.example.appDemo.controller.api.PersonController.create(com.example.appDemo.model.Person),
+2017-09-08 17:24:21.534 - after method:PersonController.create(..)
